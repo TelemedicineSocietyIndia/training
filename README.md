@@ -3,6 +3,8 @@
 ### Notice:
 This is only a repository. For the official website of TSI, please visit [https://tsi.org.in/](https://tsi.org.in/)
 
+#### Warning: The content may present medical images which may be disturbing for many users. Users are advised not to access the content unless they are professionally trained to work with medical data including medical images
+
 Please create a fork of the [repository](https://github.com/TelemedicineSocietyofIndia/training) to make changes and submit a pull request. See contributors manual for more details.
 
 For change requests and corrections please log a ticket by [clicking here](https://github.com/TelemedicineSocietyofIndia/training/issues)
